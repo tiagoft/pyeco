@@ -1,8 +1,11 @@
 # Python for Economics Course
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tiagoft/pyeco/HEAD)
+
 A course on Python and programming for PhD candidates in economics
 
 If you are going to *develop* from this repository, go to the [development guide](README_DEV.md).
+
 
 ## Installing Python for Economics Course:
 
