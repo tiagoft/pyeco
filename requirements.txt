@@ -1,0 +1,16 @@
+typer
+rich
+dash
+plotly
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+shapely
+geopandas
+yfinance
+matplotlib
+ipython
+jupyter
+tqdm
