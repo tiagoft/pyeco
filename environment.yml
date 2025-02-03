@@ -1,6 +1,6 @@
 name: pyeco
 dependencies:
-  - python=3.13
+  - python=3.12
   - pip
   - pip:
       - -e .
