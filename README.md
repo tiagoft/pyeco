@@ -2,7 +2,12 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tiagoft/pyeco/HEAD)
 
-A course on Python and programming for PhD candidates in economics
+A course on Python and programming for PhD candidates in economics.
+
+My contact:
+
+Tiago F. Tavares - Office 722 - https://tiagoft.github.io
+
 
 ## Agenda
 
